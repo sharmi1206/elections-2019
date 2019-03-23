@@ -1,7 +1,7 @@
 To run the program
 
-Prior to run the program , extract the following zip files inside electionsentiment folder
-old-data.zip, publicsentiments.zip, train.zip
+Prior to running of the program , extract the following zip files inside electionsentiment folder
+a. old-data.zip, b. publicsentiments.zip, c. train.zip
 
 
 1. Crawl tweets :
@@ -20,7 +20,7 @@ The above command will generate the merged files corresponding to Bjp, Congress,
 electionsentiment/train/raw/LokShobaElc2019... .csv
 
 
-3. Clean Tweets, process hashtags, url , emojis and generate train and test datasets
+3. Clean Tweets, process hashtags, url, emojis, retweet_counts and generate train and test datasets
 
 cd   electionsentiment/analysis/tweetprocessor
 
@@ -55,3 +55,10 @@ g. python  classifygloveattlstm.py [Deep learning models based on Word2Vec Embed
 10 python classifyw2veclstm.py  [Deep learning LSTM based models]
 
 11 python classifyw2veccnn.py  [Deep learning CNN based models]
+
+
+Links of blogs published in Analytics Vidhya
+
+1. https://medium.com/analytics-vidhya/twitter-sentiment-analysis-for-the-2019-election-8f7d52af1887
+2. https://medium.com/analytics-vidhya/sentiment-classification-for-2019-elections-using-text-based-classifiers-217f86b05124
+3. https://medium.com/analytics-vidhya/elections-2019-mood-classification-with-text-based-classifiers-ii-bf23c3dfac7f
