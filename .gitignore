@@ -4,3 +4,4 @@
 ./electionsentiment/.idea/
 *.pdf
 *.csv
+*.pkl
