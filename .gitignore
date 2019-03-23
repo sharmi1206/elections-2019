@@ -1,7 +1,8 @@
-*.txt
 .idea/
 ./algorithms/.idea/
 ./electionsentiment/.idea/
 *.pdf
 *.csv
 *.pkl
+./electionsentiment/train
+./electionsentiment/algorithms/*.txt
