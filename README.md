@@ -1,5 +1,9 @@
 To run the program
 
+Prior to run the program , extract the following zip files inside electionsentiment folder
+old-data.zip, publicsentiments.zip, train.zip
+
+
 1. Crawl tweets :
 
 cd  electionsentiment/analysis/twittercrawler
