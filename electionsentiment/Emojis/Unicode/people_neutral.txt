@@ -1,0 +1,16 @@
+🤔 Thinking Face
+😐 Neutral Face
+😑 Expressionless Face
+😶 Face Without Mouth
+🙄 Face With Rolling Eyes
+😮 Face With Open Mouth
+🤐 Zipper-Mouth Face
+😪 Sleepy Face
+😴 Sleeping Face
+😔 Pensive Face
+😕 Confused Face
+😲 Astonished Face
+👮 Police Officer
+👲 Man With Gua Pi Mao
+👳 Man With Turban
+👷 Construction Worker

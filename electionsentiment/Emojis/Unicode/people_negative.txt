@@ -1,0 +1,32 @@
+😣 sad-Persevering Face
+😥 sad-Disappointed but Relieved Face
+😯 sad-Hushed Face
+😫 sad-Tired Face
+☹ sad-White Frowning Face
+🙁 sad-Slightly Frowning Face
+😒 sad-Unamused Face
+😓 sad-Face With Cold Sweat
+😷 sad-Face With Medical Mask
+🤒 sad-Face With Thermometer
+🤕 sad-Face With Head-Bandage
+😞 sad-Disappointed Face
+😟 sad-Worried Face
+😤 sad-Face With Look of Triumph
+😢 sad-Crying Face
+😭 arousal-Loudly Crying Face
+😦 sad-Frowning Face With Open Mouth
+😧 angry-Anguished Face
+😨 fear-Fearful Face
+😩 angry-Weary Face
+😬 angry-Grimacing Face
+😰 sad-Face With Open Mouth and Cold Sweat
+😱 fear-Face Screaming in Fear
+😵 arousal-Dizzy Face
+😡 angry-Pouting Face
+😠 angry-Angry Face
+🙍 angry-Person Frowning
+🙎 angry-Person With Pouting Face
+🙅 sad-Face With No Good Gesture
+😾 sad-Pouting Cat Face
+😿 sad-Crying Cat Face
+🙀 arousal-Weary Cat Face

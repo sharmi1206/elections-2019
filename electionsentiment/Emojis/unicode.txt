@@ -1,0 +1,1337 @@
+💘	Symbols.md	Heart With Arrow
+❤️	Symbols.md	Heavy Black Heart
+💓	Symbols.md	Beating Heart
+💔	Symbols.md	Broken Heart
+💕	Symbols.md	Two Hearts
+💖	Symbols.md	Sparkling Heart
+💗	Symbols.md	Growing Heart
+💙	Symbols.md	Blue Heart
+💚	Symbols.md	Green Heart
+💛	Symbols.md	Yellow Heart
+💜	Symbols.md	Purple Heart
+💝	Symbols.md	Heart With Ribbon
+💞	Symbols.md	Revolving Hearts
+💟	Symbols.md	Heart Decoration
+❣	Symbols.md	Heavy Heart Exclamation Mark Ornament
+💤	Symbols.md	Sleeping Symbol
+💢	Symbols.md	Anger Symbol
+💬	Symbols.md	Speech Balloon
+💭	Symbols.md	Thought Balloon
+🗯	Symbols.md	Right Anger Bubble
+👓	Symbols.md	Eyeglasses
+💮	Symbols.md	White Flower
+🛐	Symbols.md	Place of Worship
+♨️	Symbols.md	Hot Springs
+💈	Symbols.md	Barber Pole
+🚳	Symbols.md	No Bicycles
+🔱	Symbols.md	Trident Emblem
+🏧	Symbols.md	Automated Teller Machine
+🚮	Symbols.md	Put Litter in Its Place Symbol
+🚫	Symbols.md	No Entry Sign
+🚭	Symbols.md	No Smoking Symbol
+🚯	Symbols.md	Do Not Litter Symbol
+🚰	Symbols.md	Potable Water Symbol
+🚱	Symbols.md	Non-Potable Water Symbol
+🚷	Symbols.md	No Pedestrians
+🚸	Symbols.md	Children Crossing
+♿	Symbols.md	Wheelchair Symbol
+🚹	Symbols.md	Mens Symbol
+🚺	Symbols.md	Womens Symbol
+🚻	Symbols.md	Restroom
+🚼	Symbols.md	Baby Symbol
+🚾	Symbols.md	Water Closet
+⚠️	Symbols.md	Warning Sign
+⛔	Symbols.md	No Entry
+🕛	Symbols.md	Clock Face Twelve O'Clock
+🕧	Symbols.md	Clock Face Twelve-Thirty
+🕐	Symbols.md	Clock Face One O'Clock
+🕜	Symbols.md	Clock Face One-Thirty
+🕑	Symbols.md	Clock Face Two O'Clock
+🕝	Symbols.md	Clock Face Two-Thirty
+🕒	Symbols.md	Clock Face Three O'Clock
+🕞	Symbols.md	Clock Face Three-Thirty
+🕓	Symbols.md	Clock Face Four O'Clock
+🕟	Symbols.md	Clock Face Four-Thirty
+🕔	Symbols.md	Clock Face Five O'Clock
+🕠	Symbols.md	Clock Face Five-Thirty
+🕕	Symbols.md	Clock Face Six O'Clock
+🕡	Symbols.md	Clock Face Six-Thirty
+🕖	Symbols.md	Clock Face Seven O'Clock
+🕢	Symbols.md	Clock Face Seven-Thirty
+🕗	Symbols.md	Clock Face Eight O'Clock
+🕣	Symbols.md	Clock Face Eight-Thirty
+🕘	Symbols.md	Clock Face Nine O'Clock
+🕤	Symbols.md	Clock Face Nine-Thirty
+🕙	Symbols.md	Clock Face Ten O'Clock
+🕥	Symbols.md	Clock Face Ten-Thirty
+🕚	Symbols.md	Clock Face Eleven O'Clock
+🕦	Symbols.md	Clock Face Eleven-Thirty
+♈	Symbols.md	Aries
+♉	Symbols.md	Taurus
+♊	Symbols.md	Gemini
+♋	Symbols.md	Cancer
+♌	Symbols.md	Leo
+♍	Symbols.md	Virgo
+♎	Symbols.md	Libra
+♏	Symbols.md	Scorpius
+♐	Symbols.md	Sagittarius
+♑	Symbols.md	Capricorn
+♒	Symbols.md	Aquarius
+♓	Symbols.md	Pisces
+⛎	Symbols.md	Ophiuchus
+🌀	Symbols.md	Cyclone
+🌂	Symbols.md	Closed Umbrella
+🕎	Symbols.md	Menorah With Nine Branches
+🎴	Symbols.md	Flower Playing Cards
+♠️	Symbols.md	Black Spade Suit
+♥️	Symbols.md	Black Heart Suit
+♦️	Symbols.md	Black Diamond Suit
+♣️	Symbols.md	Black Club Suit
+🀄	Symbols.md	Mahjong Tile Red Dragon
+🔇	Symbols.md	Speaker With Cancellation Stroke
+🔈	Symbols.md	Speaker
+🔉	Symbols.md	Speaker With One Sound Wave
+🔊	Symbols.md	Speaker With Three Sound Waves
+📢	Symbols.md	Public Address Loudspeaker
+📣	Symbols.md	Cheering Megaphone
+📯	Symbols.md	Postal Horn
+🔔	Symbols.md	Bell
+🔕	Symbols.md	Bell With Cancellation Stroke
+🔀	Symbols.md	Twisted Rightwards Arrows
+🔁	Symbols.md	Clockwise Rightwards and Leftwards Open Circle Arrows
+🔂	Symbols.md	Clockwise Rightwards and Leftwards Open Circle Arrows With Circled One Overlay
+▶️	Symbols.md	Black Right-Pointing Triangle
+⏩	Symbols.md	Black Right-Pointing Double Triangle
+◀️	Symbols.md	Black Left-Pointing Triangle
+⏪	Symbols.md	Black Left-Pointing Double Triangle
+🔼	Symbols.md	Up-Pointing Small Red Triangle
+⏫	Symbols.md	Black Up-Pointing Double Triangle
+🔽	Symbols.md	Down-Pointing Small Red Triangle
+⏬	Symbols.md	Black Down-Pointing Double Triangle
+⏹	Symbols.md	Black Square for Stop
+📳	Symbols.md	Vibration Mode
+📴	Symbols.md	Mobile Phone Off
+#⃣️	Symbols.md	Keycap Number Sign
+0⃣️	Symbols.md	Keycap Digit Zero
+1⃣️	Symbols.md	Keycap Digit One
+2⃣️	Symbols.md	Keycap Digit Two
+3⃣️	Symbols.md	Keycap Digit Three
+4⃣️	Symbols.md	Keycap Digit Four
+5⃣️	Symbols.md	Keycap Digit Five
+6⃣️	Symbols.md	Keycap Digit Six
+7⃣️	Symbols.md	Keycap Digit Seven
+8⃣️	Symbols.md	Keycap Digit Eight
+9⃣️	Symbols.md	Keycap Digit Nine
+🔟	Symbols.md	Keycap Ten
+📶	Symbols.md	Antenna With Bars
+🎦	Symbols.md	Cinema
+🔅	Symbols.md	Low Brightness Symbol
+🔆	Symbols.md	High Brightness Symbol
+⬆️	Symbols.md	Upwards Black Arrow
+↗️	Symbols.md	North East Arrow
+➡️	Symbols.md	Black Rightwards Arrow
+↘️	Symbols.md	South East Arrow
+⬇️	Symbols.md	Downwards Black Arrow
+↙️	Symbols.md	South West Arrow
+⬅️	Symbols.md	Leftwards Black Arrow
+↖️	Symbols.md	North West Arrow
+↕️	Symbols.md	Up Down Arrow
+↔️	Symbols.md	Left Right Arrow
+↩️	Symbols.md	Leftwards Arrow With Hook
+↪️	Symbols.md	Rightwards Arrow With Hook
+⤴️	Symbols.md	Arrow Pointing Rightwards Then Curving Upwards
+⤵️	Symbols.md	Arrow Pointing Rightwards Then Curving Downwards
+🔃	Symbols.md	Clockwise Downwards and Upwards Open Circle Arrows
+🔄	Symbols.md	Anticlockwise Downwards and Upwards Open Circle Arrows
+🔙	Symbols.md	Back With Leftwards Arrow Above
+🔚	Symbols.md	End With Leftwards Arrow Above
+🔛	Symbols.md	On With Exclamation Mark With Left Right Arrow Above
+🔜	Symbols.md	Soon With Rightwards Arrow Above
+🔝	Symbols.md	Top With Upwards Arrow Above
+🔰	Symbols.md	Japanese Symbol for Beginner
+⚛	Symbols.md	Atom Symbol
+🕉	Symbols.md	Om Symbol
+✡	Symbols.md	Star of David
+☸	Symbols.md	Wheel of Dharma
+☯	Symbols.md	Yin Yang
+✝	Symbols.md	Latin Cross
+☦	Symbols.md	Orthodox Cross
+☪	Symbols.md	Star and Crescent
+☮	Symbols.md	Peace Symbol
+🔮	Symbols.md	Crystal Ball
+🔯	Symbols.md	Six Pointed Star With Middle Dot
+♻️	Symbols.md	Black Universal Recycling Symbol
+☢	Symbols.md	Radioactive Sign
+☣	Symbols.md	Biohazard Sign
+⭕	Symbols.md	Heavy Large Circle
+✅	Symbols.md	White Heavy Check Mark
+☑️	Symbols.md	Ballot Box With Check
+✔️	Symbols.md	Heavy Check Mark
+✖️	Symbols.md	Heavy Multiplication X
+❌	Symbols.md	Cross Mark
+❎	Symbols.md	Negative Squared Cross Mark
+➕	Symbols.md	Heavy Plus Sign
+➖	Symbols.md	Heavy Minus Sign
+➗	Symbols.md	Heavy Division Sign
+➰	Symbols.md	Curly Loop
+➿	Symbols.md	Double Curly Loop
+〽️	Symbols.md	Part Alternation Mark
+✳️	Symbols.md	Eight Spoked Asterisk
+✴️	Symbols.md	Eight Pointed Black Star
+❇️	Symbols.md	Sparkle
+‼️	Symbols.md	Double Exclamation Mark
+⁉️	Symbols.md	Exclamation Question Mark
+❓	Symbols.md	Black Question Mark Ornament
+❔	Symbols.md	White Question Mark Ornament
+❕	Symbols.md	White Exclamation Mark Ornament
+❗	Symbols.md	Heavy Exclamation Mark Symbol
+©️	Symbols.md	Copyright Sign
+®️	Symbols.md	Registered Sign
+™️	Symbols.md	Trade Mark Sign
+💯	Symbols.md	Hundred Points Symbol
+🔞	Symbols.md	No One Under Eighteen Symbol
+🔠	Symbols.md	Input Symbol for Latin Capital Letters
+🔡	Symbols.md	Input Symbol for Latin Small Letters
+🔢	Symbols.md	Input Symbol for Numbers
+🔣	Symbols.md	Input Symbol for Symbols
+🔤	Symbols.md	Input Symbol for Latin Letters
+🅰️	Symbols.md	Negative Squared Latin Capital Letter A
+🆎	Symbols.md	Negative Squared AB
+🅱️	Symbols.md	Negative Squared Latin Capital Letter B
+🆑	Symbols.md	Squared CL
+🆒	Symbols.md	Squared Cool
+🆓	Symbols.md	Squared Free
+ℹ️	Symbols.md	Information Source
+🆔	Symbols.md	Squared ID
+Ⓜ️	Symbols.md	Circled Latin Capital Letter M
+🆕	Symbols.md	Squared New
+🆖	Symbols.md	Squared NG
+🅾️	Symbols.md	Negative Squared Latin Capital Letter O
+🆗	Symbols.md	Squared OK
+🅿️	Symbols.md	Negative Squared Latin Capital Letter P
+🆘	Symbols.md	Squared SOS
+🆙	Symbols.md	Squared Up With Exclamation Mark
+🆚	Symbols.md	Squared Vs
+🈁	Symbols.md	Squared Katakana Koko
+🈂️	Symbols.md	Squared Katakana Sa
+🈷️	Symbols.md	Squared CJK Unified Ideograph-6708
+🈶	Symbols.md	Squared CJK Unified Ideograph-6709
+🈯	Symbols.md	Squared CJK Unified Ideograph-6307
+🉐	Symbols.md	Circled Ideograph Advantage
+🈹	Symbols.md	Squared CJK Unified Ideograph-5272
+🈚	Symbols.md	Squared CJK Unified Ideograph-7121
+🈲	Symbols.md	Squared CJK Unified Ideograph-7981
+🉑	Symbols.md	Circled Ideograph Accept
+🈸	Symbols.md	Squared CJK Unified Ideograph-7533
+🈴	Symbols.md	Squared CJK Unified Ideograph-5408
+🈳	Symbols.md	Squared CJK Unified Ideograph-7a7a
+㊗️	Symbols.md	Circled Ideograph Congratulation
+㊙️	Symbols.md	Circled Ideograph Secret
+🈺	Symbols.md	Squared CJK Unified Ideograph-55b6
+🈵	Symbols.md	Squared CJK Unified Ideograph-6e80
+▪️	Symbols.md	Black Small Square
+▫️	Symbols.md	White Small Square
+◻️	Symbols.md	White Medium Square
+◼️	Symbols.md	Black Medium Square
+◽	Symbols.md	White Medium Small Square
+◾	Symbols.md	Black Medium Small Square
+⬛	Symbols.md	Black Large Square
+⬜	Symbols.md	White Large Square
+🔶	Symbols.md	Large Orange Diamond
+🔷	Symbols.md	Large Blue Diamond
+🔸	Symbols.md	Small Orange Diamond
+🔹	Symbols.md	Small Blue Diamond
+🔺	Symbols.md	Up-Pointing Red Triangle
+🔻	Symbols.md	Down-Pointing Red Triangle
+💠	Symbols.md	Diamond Shape With a Dot Inside
+🔲	Symbols.md	Black Square Button
+🔳	Symbols.md	White Square Button
+⚪	Symbols.md	Medium White Circle
+⚫	Symbols.md	Medium Black Circle
+🔴	Symbols.md	Large Red Circle
+🔵	Symbols.md	Large Blue Circle
+👁‍🗨	Symbols.md	Eye in Speech Bubble
+😀	Smileys_and_People.md	Grinning Face
+😁	Smileys_and_People.md	Grinning Face With Smiling Eyes
+😂	Smileys_and_People.md	Face With Tears of Joy
+😃	Smileys_and_People.md	Smiling Face With Open Mouth
+😄	Smileys_and_People.md	Smiling Face With Open Mouth and Smiling Eyes
+😅	Smileys_and_People.md	Smiling Face With Open Mouth and Cold Sweat
+😆	Smileys_and_People.md	Smiling Face With Open Mouth and Tightly-Closed Eyes
+😉	Smileys_and_People.md	Winking Face
+😊	Smileys_and_People.md	Smiling Face With Smiling Eyes
+😋	Smileys_and_People.md	Face Savouring Delicious Food
+😎	Smileys_and_People.md	Smiling Face With Sunglasses
+😍	Smileys_and_People.md	Smiling Face With Heart-Shaped Eyes
+😘	Smileys_and_People.md	Face Throwing a Kiss
+😗	Smileys_and_People.md	Kissing Face
+😙	Smileys_and_People.md	Kissing Face With Smiling Eyes
+😚	Smileys_and_People.md	Kissing Face With Closed Eyes
+☺️	Smileys_and_People.md	White Smiling Face
+🙂	Smileys_and_People.md	Slightly Smiling Face
+🤗	Smileys_and_People.md	Hugging Face
+😇	Smileys_and_People.md	Smiling Face With Halo
+🤔	Smileys_and_People.md	Thinking Face
+😐	Smileys_and_People.md	Neutral Face
+😑	Smileys_and_People.md	Expressionless Face
+😶	Smileys_and_People.md	Face Without Mouth
+🙄	Smileys_and_People.md	Face With Rolling Eyes
+😏	Smileys_and_People.md	Smirking Face
+😣	Smileys_and_People.md	Persevering Face
+😥	Smileys_and_People.md	Disappointed but Relieved Face
+😮	Smileys_and_People.md	Face With Open Mouth
+🤐	Smileys_and_People.md	Zipper-Mouth Face
+😯	Smileys_and_People.md	Hushed Face
+😪	Smileys_and_People.md	Sleepy Face
+😫	Smileys_and_People.md	Tired Face
+😴	Smileys_and_People.md	Sleeping Face
+😌	Smileys_and_People.md	Relieved Face
+🤓	Smileys_and_People.md	Nerd Face
+😛	Smileys_and_People.md	Face With Stuck-Out Tongue
+😜	Smileys_and_People.md	Face With Stuck-Out Tongue and Winking Eye
+😝	Smileys_and_People.md	Face With Stuck-Out Tongue and Tightly-Closed Eyes
+☹	Smileys_and_People.md	White Frowning Face
+🙁	Smileys_and_People.md	Slightly Frowning Face
+😒	Smileys_and_People.md	Unamused Face
+😓	Smileys_and_People.md	Face With Cold Sweat
+😔	Smileys_and_People.md	Pensive Face
+😕	Smileys_and_People.md	Confused Face
+😖	Smileys_and_People.md	Confounded Face
+🙃	Smileys_and_People.md	Upside-Down Face
+😷	Smileys_and_People.md	Face With Medical Mask
+🤒	Smileys_and_People.md	Face With Thermometer
+🤕	Smileys_and_People.md	Face With Head-Bandage
+🤑	Smileys_and_People.md	Money-Mouth Face
+😲	Smileys_and_People.md	Astonished Face
+😞	Smileys_and_People.md	Disappointed Face
+😟	Smileys_and_People.md	Worried Face
+😤	Smileys_and_People.md	Face With Look of Triumph
+😢	Smileys_and_People.md	Crying Face
+😭	Smileys_and_People.md	Loudly Crying Face
+😦	Smileys_and_People.md	Frowning Face With Open Mouth
+😧	Smileys_and_People.md	Anguished Face
+😨	Smileys_and_People.md	Fearful Face
+😩	Smileys_and_People.md	Weary Face
+😬	Smileys_and_People.md	Grimacing Face
+😰	Smileys_and_People.md	Face With Open Mouth and Cold Sweat
+😱	Smileys_and_People.md	Face Screaming in Fear
+😳	Smileys_and_People.md	Flushed Face
+😵	Smileys_and_People.md	Dizzy Face
+😡	Smileys_and_People.md	Pouting Face
+😠	Smileys_and_People.md	Angry Face
+👿	Smileys_and_People.md	Imp
+😈	Smileys_and_People.md	Smiling Face With Horns
+👦	Smileys_and_People.md	Boy
+👧	Smileys_and_People.md	Girl
+👨	Smileys_and_People.md	Man
+👩	Smileys_and_People.md	Woman
+👴	Smileys_and_People.md	Older Man
+👵	Smileys_and_People.md	Older Woman
+👶	Smileys_and_People.md	Baby
+👱	Smileys_and_People.md	Person With Blond Hair
+👮	Smileys_and_People.md	Police Officer
+👲	Smileys_and_People.md	Man With Gua Pi Mao
+👳	Smileys_and_People.md	Man With Turban
+👷	Smileys_and_People.md	Construction Worker
+⛑	Smileys_and_People.md	Helmet With White Cross
+👸	Smileys_and_People.md	Princess
+💂	Smileys_and_People.md	Guardsman
+🎅	Smileys_and_People.md	Father Christmas
+👼	Smileys_and_People.md	Baby Angel
+🕵	Smileys_and_People.md	Sleuth or Spy
+👯	Smileys_and_People.md	Woman With Bunny Ears
+💆	Smileys_and_People.md	Face Massage
+💇	Smileys_and_People.md	Haircut
+👰	Smileys_and_People.md	Bride With Veil
+🙍	Smileys_and_People.md	Person Frowning
+🙎	Smileys_and_People.md	Person With Pouting Face
+🙅	Smileys_and_People.md	Face With No Good Gesture
+🙆	Smileys_and_People.md	Face With OK Gesture
+💁	Smileys_and_People.md	Information Desk Person
+🙋	Smileys_and_People.md	Happy Person Raising One Hand
+🙇	Smileys_and_People.md	Person Bowing Deeply
+🙌	Smileys_and_People.md	Person Raising Both Hands in Celebration
+🙏	Smileys_and_People.md	Person With Folded Hands
+🗣	Smileys_and_People.md	Speaking Head in Silhouette
+👤	Smileys_and_People.md	Bust in Silhouette
+👥	Smileys_and_People.md	Busts in Silhouette
+🚶	Smileys_and_People.md	Pedestrian
+🏃	Smileys_and_People.md	Runner
+💃	Smileys_and_People.md	Dancer
+🕴	Smileys_and_People.md	Man in Business Suit Levitating
+💏	Smileys_and_People.md	Kiss
+💑	Smileys_and_People.md	Couple With Heart
+👪	Smileys_and_People.md	Family
+👫	Smileys_and_People.md	Man and Woman Holding Hands
+👬	Smileys_and_People.md	Two Men Holding Hands
+👭	Smileys_and_People.md	Two Women Holding Hands
+💪	Smileys_and_People.md	Flexed Biceps
+👈	Smileys_and_People.md	White Left Pointing Backhand Index
+👉	Smileys_and_People.md	White Right Pointing Backhand Index
+☝️	Smileys_and_People.md	White Up Pointing Index
+👆	Smileys_and_People.md	White Up Pointing Backhand Index
+🖕	Smileys_and_People.md	Reversed Hand With Middle Finger Extended
+👇	Smileys_and_People.md	White Down Pointing Backhand Index
+✌️	Smileys_and_People.md	Victory Hand
+🖖	Smileys_and_People.md	Raised Hand With Part Between Middle and Ring Fingers
+🤘	Smileys_and_People.md	Sign of the Horns
+🖐	Smileys_and_People.md	Raised Hand With Fingers Splayed
+✊	Smileys_and_People.md	Raised Fist
+✋	Smileys_and_People.md	Raised Hand
+👊	Smileys_and_People.md	Fisted Hand Sign
+👌	Smileys_and_People.md	OK Hand Sign
+👍	Smileys_and_People.md	Thumbs Up Sign
+👎	Smileys_and_People.md	Thumbs Down Sign
+👋	Smileys_and_People.md	Waving Hand Sign
+👏	Smileys_and_People.md	Clapping Hands Sign
+👐	Smileys_and_People.md	Open Hands Sign
+✍	Smileys_and_People.md	Writing Hand
+💅	Smileys_and_People.md	Nail Polish
+👣	Smileys_and_People.md	Footprints
+👀	Smileys_and_People.md	Eyes
+👁	Smileys_and_People.md	Eye
+👂	Smileys_and_People.md	Ear
+👃	Smileys_and_People.md	Nose
+👅	Smileys_and_People.md	Tongue
+👄	Smileys_and_People.md	Mouth
+💋	Smileys_and_People.md	Kiss Mark
+👓	Smileys_and_People.md	Eyeglasses
+🕶	Smileys_and_People.md	Dark Sunglasses
+👔	Smileys_and_People.md	Necktie
+👕	Smileys_and_People.md	T-Shirt
+👖	Smileys_and_People.md	Jeans
+👗	Smileys_and_People.md	Dress
+👘	Smileys_and_People.md	Kimono
+👙	Smileys_and_People.md	Bikini
+👚	Smileys_and_People.md	Womans Clothes
+👛	Smileys_and_People.md	Purse
+👜	Smileys_and_People.md	Handbag
+👝	Smileys_and_People.md	Pouch
+🎒	Smileys_and_People.md	School Satchel
+👞	Smileys_and_People.md	Mans Shoe
+👟	Smileys_and_People.md	Athletic Shoe
+👠	Smileys_and_People.md	High-Heeled Shoe
+👡	Smileys_and_People.md	Womans Sandal
+👢	Smileys_and_People.md	Womans Boots
+👑	Smileys_and_People.md	Crown
+👒	Smileys_and_People.md	Womans Hat
+🎩	Smileys_and_People.md	Top Hat
+💄	Smileys_and_People.md	Lipstick
+💍	Smileys_and_People.md	Ring
+👹	Smileys_and_People.md	Japanese Ogre
+👺	Smileys_and_People.md	Japanese Goblin
+👻	Smileys_and_People.md	Ghost
+💀	Smileys_and_People.md	Skull
+☠	Smileys_and_People.md	Skull and Crossbones
+👽	Smileys_and_People.md	Extraterrestrial Alien
+👾	Smileys_and_People.md	Alien Monster
+🤖	Smileys_and_People.md	Robot Face
+💩	Smileys_and_People.md	Pile of Poo
+😸	Smileys_and_People.md	Grinning Cat Face With Smiling Eyes
+😹	Smileys_and_People.md	Cat Face With Tears of Joy
+😺	Smileys_and_People.md	Smiling Cat Face With Open Mouth
+😻	Smileys_and_People.md	Smiling Cat Face With Heart-Shaped Eyes
+😼	Smileys_and_People.md	Cat Face With Wry Smile
+😽	Smileys_and_People.md	Kissing Cat Face With Closed Eyes
+😾	Smileys_and_People.md	Pouting Cat Face
+😿	Smileys_and_People.md	Crying Cat Face
+🙀	Smileys_and_People.md	Weary Cat Face
+🌂	Smileys_and_People.md	Closed Umbrella
+🎓	Smileys_and_People.md	Graduation Cap
+💼	Smileys_and_People.md	Briefcase
+👨‍👩‍👧	Smileys_and_People.md	Family (Man, Woman, Girl)
+👨‍👩‍👧‍👦	Smileys_and_People.md	Family (Man, Woman, Girl, Boy)
+👨‍👩‍👦‍👦	Smileys_and_People.md	Family (Man, Woman, Boy, Boy)
+👨‍👩‍👧‍👧	Smileys_and_People.md	Family (Man, Woman, Girl, Girl)
+👩‍👩‍👦	Smileys_and_People.md	Family (Woman, Woman, Boy)
+👩‍👩‍👧	Smileys_and_People.md	Family (Woman, Woman, Girl)
+👩‍👩‍👧‍👦	Smileys_and_People.md	Family (Woman, Woman, Girl, Boy)
+👩‍👩‍👦‍👦	Smileys_and_People.md	Family (Woman, Woman, Boy, Boy)
+👩‍👩‍👧‍👧	Smileys_and_People.md	Family (Woman, Woman, Girl, Girl)
+👨‍👨‍👦	Smileys_and_People.md	Family (Man, Man, Boy)
+👨‍👨‍👧	Smileys_and_People.md	Family (Man, Man, Girl)
+👨‍👨‍👧‍👦	Smileys_and_People.md	Family (Man, Man, Girl, Boy)
+👨‍👨‍👦‍👦	Smileys_and_People.md	Family (Man, Man, Boy, Boy)
+👨‍👨‍👧‍👧	Smileys_and_People.md	Family (Man, Man, Girl, Girl)
+👩‍❤️‍👩	Smileys_and_People.md	Couple With Heart (Woman, Woman)
+👨‍❤️‍👨	Smileys_and_People.md	Couple With Heart (Man, Man)
+👩‍❤️‍💋‍👩	Smileys_and_People.md	Kiss (Woman, Woman)
+👨‍❤️‍💋‍👨	Smileys_and_People.md	Kiss (Man, Man)
+💧	Animals_and_Nature.md	Droplet
+💦	Animals_and_Nature.md	Splashing Sweat Symbol
+💨	Animals_and_Nature.md	Dash Symbol
+🐵	Animals_and_Nature.md	Monkey Face
+🙈	Animals_and_Nature.md	See-No-Evil Monkey
+🙉	Animals_and_Nature.md	Hear-No-Evil Monkey
+🙊	Animals_and_Nature.md	Speak-No-Evil Monkey
+🐒	Animals_and_Nature.md	Monkey
+🐶	Animals_and_Nature.md	Dog Face
+🐕	Animals_and_Nature.md	Dog
+🐩	Animals_and_Nature.md	Poodle
+🐺	Animals_and_Nature.md	Wolf Face
+🐱	Animals_and_Nature.md	Cat Face
+🐈	Animals_and_Nature.md	Cat
+🦁	Animals_and_Nature.md	Lion Face
+🐯	Animals_and_Nature.md	Tiger Face
+🐅	Animals_and_Nature.md	Tiger
+🐆	Animals_and_Nature.md	Leopard
+🐴	Animals_and_Nature.md	Horse Face
+🐎	Animals_and_Nature.md	Horse
+🦄	Animals_and_Nature.md	Unicorn Face
+🐮	Animals_and_Nature.md	Cow Face
+🐂	Animals_and_Nature.md	Ox
+🐃	Animals_and_Nature.md	Water Buffalo
+🐄	Animals_and_Nature.md	Cow
+🐷	Animals_and_Nature.md	Pig Face
+🐖	Animals_and_Nature.md	Pig
+🐗	Animals_and_Nature.md	Boar
+🐽	Animals_and_Nature.md	Pig Nose
+🐏	Animals_and_Nature.md	Ram
+🐑	Animals_and_Nature.md	Sheep
+🐐	Animals_and_Nature.md	Goat
+🐪	Animals_and_Nature.md	Dromedary Camel
+🐫	Animals_and_Nature.md	Bactrian Camel
+🐘	Animals_and_Nature.md	Elephant
+🐭	Animals_and_Nature.md	Mouse Face
+🐁	Animals_and_Nature.md	Mouse
+🐀	Animals_and_Nature.md	Rat
+🐹	Animals_and_Nature.md	Hamster Face
+🐰	Animals_and_Nature.md	Rabbit Face
+🐇	Animals_and_Nature.md	Rabbit
+🐿	Animals_and_Nature.md	Chipmunk
+🐻	Animals_and_Nature.md	Bear Face
+🐨	Animals_and_Nature.md	Koala
+🐼	Animals_and_Nature.md	Panda Face
+🐾	Animals_and_Nature.md	Paw Prints
+🦃	Animals_and_Nature.md	Turkey
+🐔	Animals_and_Nature.md	Chicken
+🐓	Animals_and_Nature.md	Rooster
+🐣	Animals_and_Nature.md	Hatching Chick
+🐤	Animals_and_Nature.md	Baby Chick
+🐥	Animals_and_Nature.md	Front-Facing Baby Chick
+🐦	Animals_and_Nature.md	Bird
+🐧	Animals_and_Nature.md	Penguin
+🕊	Animals_and_Nature.md	Dove of Peace
+🐸	Animals_and_Nature.md	Frog Face
+🐊	Animals_and_Nature.md	Crocodile
+🐢	Animals_and_Nature.md	Turtle
+🐍	Animals_and_Nature.md	Snake
+🐲	Animals_and_Nature.md	Dragon Face
+🐉	Animals_and_Nature.md	Dragon
+🐳	Animals_and_Nature.md	Spouting Whale
+🐋	Animals_and_Nature.md	Whale
+🐬	Animals_and_Nature.md	Dolphin
+🐟	Animals_and_Nature.md	Fish
+🐠	Animals_and_Nature.md	Tropical Fish
+🐡	Animals_and_Nature.md	Blowfish
+🐙	Animals_and_Nature.md	Octopus
+🐚	Animals_and_Nature.md	Spiral Shell
+🦀	Animals_and_Nature.md	Crab
+🐌	Animals_and_Nature.md	Snail
+🐛	Animals_and_Nature.md	Bug
+🐜	Animals_and_Nature.md	Ant
+🐝	Animals_and_Nature.md	Honeybee
+🐞	Animals_and_Nature.md	Lady Beetle
+🕷	Animals_and_Nature.md	Spider
+🕸	Animals_and_Nature.md	Spider Web
+🦂	Animals_and_Nature.md	Scorpion
+💐	Animals_and_Nature.md	Bouquet
+🌸	Animals_and_Nature.md	Cherry Blossom
+💮	Animals_and_Nature.md	White Flower
+🏵	Animals_and_Nature.md	Rosette
+🌹	Animals_and_Nature.md	Rose
+🌺	Animals_and_Nature.md	Hibiscus
+🌻	Animals_and_Nature.md	Sunflower
+🌼	Animals_and_Nature.md	Blossom
+🌷	Animals_and_Nature.md	Tulip
+☘	Animals_and_Nature.md	Shamrock
+🌱	Animals_and_Nature.md	Seedling
+🌲	Animals_and_Nature.md	Evergreen Tree
+🌳	Animals_and_Nature.md	Deciduous Tree
+🌴	Animals_and_Nature.md	Palm Tree
+🌵	Animals_and_Nature.md	Cactus
+🌾	Animals_and_Nature.md	Ear of Rice
+🌿	Animals_and_Nature.md	Herb
+🍀	Animals_and_Nature.md	Four Leaf Clover
+🍁	Animals_and_Nature.md	Maple Leaf
+🍂	Animals_and_Nature.md	Fallen Leaf
+🍃	Animals_and_Nature.md	Leaf Fluttering in Wind
+🌍	Animals_and_Nature.md	Earth Globe Europe-Africa
+🌎	Animals_and_Nature.md	Earth Globe Americas
+🌏	Animals_and_Nature.md	Earth Globe Asia-Australia
+🌐	Animals_and_Nature.md	Globe With Meridians
+🌊	Animals_and_Nature.md	Water Wave
+🌑	Animals_and_Nature.md	New Moon Symbol
+🌒	Animals_and_Nature.md	Waxing Crescent Moon Symbol
+🌓	Animals_and_Nature.md	First Quarter Moon Symbol
+🌔	Animals_and_Nature.md	Waxing Gibbous Moon Symbol
+🌕	Animals_and_Nature.md	Full Moon Symbol
+🌖	Animals_and_Nature.md	Waning Gibbous Moon Symbol
+🌗	Animals_and_Nature.md	Last Quarter Moon Symbol
+🌘	Animals_and_Nature.md	Waning Crescent Moon Symbol
+🌙	Animals_and_Nature.md	Crescent Moon
+🌚	Animals_and_Nature.md	New Moon With Face
+🌛	Animals_and_Nature.md	First Quarter Moon With Face
+🌜	Animals_and_Nature.md	Last Quarter Moon With Face
+🌡	Animals_and_Nature.md	Thermometer
+☀️	Animals_and_Nature.md	Black Sun With Rays
+🌝	Animals_and_Nature.md	Full Moon With Face
+🌞	Animals_and_Nature.md	Sun With Face
+☁️	Animals_and_Nature.md	Cloud
+⛅	Animals_and_Nature.md	Sun Behind Cloud
+⛈	Animals_and_Nature.md	Thunder Cloud and Rain
+🌤	Animals_and_Nature.md	White Sun With Small Cloud
+🌥	Animals_and_Nature.md	White Sun Behind Cloud
+🌦	Animals_and_Nature.md	White Sun Behind Cloud With Rain
+🌧	Animals_and_Nature.md	Cloud With Rain
+🌨	Animals_and_Nature.md	Cloud With Snow
+🌩	Animals_and_Nature.md	Cloud With Lightning
+🌪	Animals_and_Nature.md	Cloud With Tornado
+🌫	Animals_and_Nature.md	Fog
+🌬	Animals_and_Nature.md	Wind Blowing Face
+☂	Animals_and_Nature.md	Umbrella
+☔	Animals_and_Nature.md	Umbrella With Rain Drops
+❄️	Animals_and_Nature.md	Snowflake
+☃	Animals_and_Nature.md	Snowman
+🌟	Animals_and_Nature.md	Glowing Star
+🌠	Animals_and_Nature.md	Shooting Star
+☄	Animals_and_Nature.md	Comet
+🔥	Animals_and_Nature.md	Fire
+⚡	Animals_and_Nature.md	High Voltage Sign
+⭐	Animals_and_Nature.md	White Medium Star
+🦌	Unicode_9.md	Deer
+🛶	Unicode_9.md	Canoe
+🤸	Unicode_9.md	Person Doing Cartwheel
+🛒	Unicode_9.md	Shopping Trolley
+🦍	Unicode_9.md	Gorilla
+🤻	Unicode_9.md	Wrestlers
+🦎	Unicode_9.md	Lizard
+🤼	Unicode_9.md	Boxing Glove
+🤿	Unicode_9.md	Handball
+🥅	Unicode_9.md	Goal Net
+🥆	Unicode_9.md	Rifle
+🥠	Unicode_9.md	Modern Pentathlon
+🥡	Unicode_9.md	Fencer
+🤦	Unicode_9.md	Face Palm
+🥇	Unicode_9.md	First Place Medal
+🥈	Unicode_9.md	Second Place Medal
+🥉	Unicode_9.md	Third Place Medal
+🦏	Unicode_9.md	Rhinoceros
+🦆	Unicode_9.md	Duck
+🥑	Unicode_9.md	Avocado
+🦈	Unicode_9.md	Shark
+🥕	Unicode_9.md	Carrot
+🤥	Unicode_9.md	Lying Face
+🦉	Unicode_9.md	Owl
+🤴	Unicode_9.md	Prince
+🤰	Unicode_9.md	Pregnant Woman
+🛴	Unicode_9.md	Scooter
+🦅	Unicode_9.md	Eagle
+🤧	Unicode_9.md	Sneezing Face
+🤽	Unicode_9.md	Martial Arts Uniform
+🤹	Unicode_9.md	Juggling
+🥂	Unicode_9.md	Clinking Glasses
+🥄	Unicode_9.md	Spoon
+🤷	Unicode_9.md	Shrug
+🥓	Unicode_9.md	Bacon
+🤞	Unicode_9.md	Hand With First And Second Fingers Crossed
+🤠	Unicode_9.md	Face With Cowboy Hat
+🕺	Unicode_9.md	Man Dancing
+🥔	Unicode_9.md	Potato
+🦇	Unicode_9.md	Bat
+🥀	Unicode_9.md	Wilted Flower
+🤡	Unicode_9.md	Clown Face
+🤵	Unicode_9.md	Man In Tuxedo
+🥗	Unicode_9.md	Green Salad
+🥘	Unicode_9.md	Shallow Pan Of Food
+🤚	Unicode_9.md	Raised Back Of Hand
+🥙	Unicode_9.md	Stuffed Flatbread
+🤛	Unicode_9.md	Left-Facing Fist
+🤜	Unicode_9.md	Right-Facing Fist
+🥐	Unicode_9.md	Croissant
+🤣	Unicode_9.md	Rolling On The Floor Laughing
+🤺	Unicode_9.md	Drum With Drumsticks
+🦋	Unicode_9.md	Butterfly
+🦊	Unicode_9.md	Fox Face
+🥃	Unicode_9.md	Tumbler Glass
+🤳	Unicode_9.md	Selfie
+🖤	Unicode_9.md	Black Heart
+🥒	Unicode_9.md	Cucumber
+🤶	Unicode_9.md	Mother Christmas
+🥖	Unicode_9.md	Baguette Bread
+🛵	Unicode_9.md	Motor Scooter
+🛑	Unicode_9.md	Octagonal Sign
+🤢	Unicode_9.md	Nauseated Face
+🤝	Unicode_9.md	Handshake
+🤤	Unicode_9.md	Drooling Face
+🤙	Unicode_9.md	Call Me Hand
+🇦🇫	Flags.md	Flag for Afghanistan
+🇦🇽	Flags.md	Flag for Åland Islands
+🇦🇱	Flags.md	Flag for Albania
+🇩🇿	Flags.md	Flag for Algeria
+🇦🇸	Flags.md	Flag for American Samoa
+🇦🇩	Flags.md	Flag for Andorra
+🇦🇴	Flags.md	Flag for Angola
+🇦🇮	Flags.md	Flag for Anguilla
+🇦🇶	Flags.md	Flag for Antarctica
+🇦🇬	Flags.md	Flag for Antigua & Barbuda
+🇦🇷	Flags.md	Flag for Argentina
+🇦🇲	Flags.md	Flag for Armenia
+🇦🇼	Flags.md	Flag for Aruba
+🇦🇨	Flags.md	Flag for Ascension Island
+🇦🇺	Flags.md	Flag for Australia
+🇦🇹	Flags.md	Flag for Austria
+🇦🇿	Flags.md	Flag for Azerbaijan
+🇧🇸	Flags.md	Flag for Bahamas
+🇧🇭	Flags.md	Flag for Bahrain
+🇧🇩	Flags.md	Flag for Bangladesh
+🇧🇧	Flags.md	Flag for Barbados
+🇧🇾	Flags.md	Flag for Belarus
+🇧🇪	Flags.md	Flag for Belgium
+🇧🇿	Flags.md	Flag for Belize
+🇧🇯	Flags.md	Flag for Benin
+🇧🇲	Flags.md	Flag for Bermuda
+🇧🇹	Flags.md	Flag for Bhutan
+🇧🇴	Flags.md	Flag for Bolivia
+🇧🇦	Flags.md	Flag for Bosnia & Herzegovina
+🇧🇼	Flags.md	Flag for Botswana
+🇧🇻	Flags.md	Flag for Bouvet Island
+🇧🇷	Flags.md	Flag for Brazil
+🇮🇴	Flags.md	Flag for British Indian Ocean Territory
+🇻🇬	Flags.md	Flag for British Virgin Islands
+🇧🇳	Flags.md	Flag for Brunei
+🇧🇬	Flags.md	Flag for Bulgaria
+🇧🇫	Flags.md	Flag for Burkina Faso
+🇧🇮	Flags.md	Flag for Burundi
+🇰🇭	Flags.md	Flag for Cambodia
+🇨🇲	Flags.md	Flag for Cameroon
+🇨🇦	Flags.md	Flag for Canada
+🇮🇨	Flags.md	Flag for Canary Islands
+🇨🇻	Flags.md	Flag for Cape Verde
+🇧🇶	Flags.md	Flag for Caribbean Netherlands
+🇰🇾	Flags.md	Flag for Cayman Islands
+🇨🇫	Flags.md	Flag for Central African Republic
+🇪🇦	Flags.md	Flag for Ceuta & Melilla
+🇹🇩	Flags.md	Flag for Chad
+🇨🇱	Flags.md	Flag for Chile
+🇨🇳	Flags.md	Flag for China
+🇨🇽	Flags.md	Flag for Christmas Island
+🇨🇵	Flags.md	Flag for Clipperton Island
+🇨🇨	Flags.md	Flag for Cocos Islands
+🇨🇴	Flags.md	Flag for Colombia
+🇰🇲	Flags.md	Flag for Comoros
+🇨🇬	Flags.md	Flag for Congo - Brazzaville
+🇨🇩	Flags.md	Flag for Congo - Kinshasa
+🇨🇰	Flags.md	Flag for Cook Islands
+🇨🇷	Flags.md	Flag for Costa Rica
+🇨🇮	Flags.md	Flag for Côte D’Ivoire
+🇭🇷	Flags.md	Flag for Croatia
+🇨🇺	Flags.md	Flag for Cuba
+🇨🇼	Flags.md	Flag for Curaçao
+🇨🇾	Flags.md	Flag for Cyprus
+🇨🇿	Flags.md	Flag for Czech Republic
+🇩🇰	Flags.md	Flag for Denmark
+🇩🇬	Flags.md	Flag for Diego Garcia
+🇩🇯	Flags.md	Flag for Djibouti
+🇩🇲	Flags.md	Flag for Dominica
+🇩🇴	Flags.md	Flag for Dominican Republic
+🇪🇨	Flags.md	Flag for Ecuador
+🇪🇬	Flags.md	Flag for Egypt
+🇸🇻	Flags.md	Flag for El Salvador
+🇬🇶	Flags.md	Flag for Equatorial Guinea
+🇪🇷	Flags.md	Flag for Eritrea
+🇪🇪	Flags.md	Flag for Estonia
+🇪🇹	Flags.md	Flag for Ethiopia
+🇪🇺	Flags.md	Flag for European Union
+🇫🇰	Flags.md	Flag for Falkland Islands
+🇫🇴	Flags.md	Flag for Faroe Islands
+🇫🇯	Flags.md	Flag for Fiji
+🇫🇮	Flags.md	Flag for Finland
+🇫🇷	Flags.md	Flag for France
+🇬🇫	Flags.md	Flag for French Guiana
+🇵🇫	Flags.md	Flag for French Polynesia
+🇹🇫	Flags.md	Flag for French Southern Territories
+🇬🇦	Flags.md	Flag for Gabon
+🇬🇲	Flags.md	Flag for Gambia
+🇬🇪	Flags.md	Flag for Georgia
+🇩🇪	Flags.md	Flag for Germany
+🇬🇭	Flags.md	Flag for Ghana
+🇬🇮	Flags.md	Flag for Gibraltar
+🇬🇷	Flags.md	Flag for Greece
+🇬🇱	Flags.md	Flag for Greenland
+🇬🇩	Flags.md	Flag for Grenada
+🇬🇵	Flags.md	Flag for Guadeloupe
+🇬🇺	Flags.md	Flag for Guam
+🇬🇹	Flags.md	Flag for Guatemala
+🇬🇬	Flags.md	Flag for Guernsey
+🇬🇳	Flags.md	Flag for Guinea
+🇬🇼	Flags.md	Flag for Guinea-Bissau
+🇬🇾	Flags.md	Flag for Guyana
+🇭🇹	Flags.md	Flag for Haiti
+🇭🇲	Flags.md	Flag for Heard & McDonald Islands
+🇭🇳	Flags.md	Flag for Honduras
+🇭🇰	Flags.md	Flag for Hong Kong
+🇭🇺	Flags.md	Flag for Hungary
+🇮🇸	Flags.md	Flag for Iceland
+🇮🇳	Flags.md	Flag for India
+🇮🇩	Flags.md	Flag for Indonesia
+🇮🇷	Flags.md	Flag for Iran
+🇮🇶	Flags.md	Flag for Iraq
+🇮🇪	Flags.md	Flag for Ireland
+🇮🇲	Flags.md	Flag for Isle of Man
+🇮🇱	Flags.md	Flag for Israel
+🇮🇹	Flags.md	Flag for Italy
+🇯🇲	Flags.md	Flag for Jamaica
+🇯🇵	Flags.md	Flag for Japan
+🇯🇪	Flags.md	Flag for Jersey
+🇯🇴	Flags.md	Flag for Jordan
+🇰🇿	Flags.md	Flag for Kazakhstan
+🇰🇪	Flags.md	Flag for Kenya
+🇰🇮	Flags.md	Flag for Kiribati
+🇽🇰	Flags.md	Flag for Kosovo
+🇰🇼	Flags.md	Flag for Kuwait
+🇰🇬	Flags.md	Flag for Kyrgyzstan
+🇱🇦	Flags.md	Flag for Laos
+🇱🇻	Flags.md	Flag for Latvia
+🇱🇧	Flags.md	Flag for Lebanon
+🇱🇸	Flags.md	Flag for Lesotho
+🇱🇷	Flags.md	Flag for Liberia
+🇱🇾	Flags.md	Flag for Libya
+🇱🇮	Flags.md	Flag for Liechtenstein
+🇱🇹	Flags.md	Flag for Lithuania
+🇱🇺	Flags.md	Flag for Luxembourg
+🇲🇴	Flags.md	Flag for Macau
+🇲🇰	Flags.md	Flag for Macedonia
+🇲🇬	Flags.md	Flag for Madagascar
+🇲🇼	Flags.md	Flag for Malawi
+🇲🇾	Flags.md	Flag for Malaysia
+🇲🇻	Flags.md	Flag for Maldives
+🇲🇱	Flags.md	Flag for Mali
+🇲🇹	Flags.md	Flag for Malta
+🇲🇭	Flags.md	Flag for Marshall Islands
+🇲🇶	Flags.md	Flag for Martinique
+🇲🇷	Flags.md	Flag for Mauritania
+🇲🇺	Flags.md	Flag for Mauritius
+🇾🇹	Flags.md	Flag for Mayotte
+🇲🇽	Flags.md	Flag for Mexico
+🇫🇲	Flags.md	Flag for Micronesia
+🇲🇩	Flags.md	Flag for Moldova
+🇲🇨	Flags.md	Flag for Monaco
+🇲🇳	Flags.md	Flag for Mongolia
+🇲🇪	Flags.md	Flag for Montenegro
+🇲🇸	Flags.md	Flag for Montserrat
+🇲🇦	Flags.md	Flag for Morocco
+🇲🇿	Flags.md	Flag for Mozambique
+🇲🇲	Flags.md	Flag for Myanmar
+🇳🇦	Flags.md	Flag for Namibia
+🇳🇷	Flags.md	Flag for Nauru
+🇳🇵	Flags.md	Flag for Nepal
+🇳🇱	Flags.md	Flag for Netherlands
+🇳🇨	Flags.md	Flag for New Caledonia
+🇳🇿	Flags.md	Flag for New Zealand
+🇳🇮	Flags.md	Flag for Nicaragua
+🇳🇪	Flags.md	Flag for Niger
+🇳🇬	Flags.md	Flag for Nigeria
+🇳🇺	Flags.md	Flag for Niue
+🇳🇫	Flags.md	Flag for Norfolk Island
+🇲🇵	Flags.md	Flag for Northern Mariana Islands
+🇰🇵	Flags.md	Flag for North Korea
+🇳🇴	Flags.md	Flag for Norway
+🇴🇲	Flags.md	Flag for Oman
+🇵🇰	Flags.md	Flag for Pakistan
+🇵🇼	Flags.md	Flag for Palau
+🇵🇸	Flags.md	Flag for Palestinian Territories
+🇵🇦	Flags.md	Flag for Panama
+🇵🇬	Flags.md	Flag for Papua New Guinea
+🇵🇾	Flags.md	Flag for Paraguay
+🇵🇪	Flags.md	Flag for Peru
+🇵🇭	Flags.md	Flag for Philippines
+🇵🇳	Flags.md	Flag for Pitcairn Islands
+🇵🇱	Flags.md	Flag for Poland
+🇵🇹	Flags.md	Flag for Portugal
+🇵🇷	Flags.md	Flag for Puerto Rico
+🇶🇦	Flags.md	Flag for Qatar
+🇷🇪	Flags.md	Flag for Réunion
+🇷🇴	Flags.md	Flag for Romania
+🇷🇺	Flags.md	Flag for Russia
+🇷🇼	Flags.md	Flag for Rwanda
+🇼🇸	Flags.md	Flag for Samoa
+🇸🇲	Flags.md	Flag for San Marino
+🇸🇹	Flags.md	Flag for São Tomé & Príncipe
+🇸🇦	Flags.md	Flag for Saudi Arabia
+🇸🇳	Flags.md	Flag for Senegal
+🇷🇸	Flags.md	Flag for Serbia
+🇸🇨	Flags.md	Flag for Seychelles
+🇸🇱	Flags.md	Flag for Sierra Leone
+🇸🇬	Flags.md	Flag for Singapore
+🇸🇽	Flags.md	Flag for Sint Maarten
+🇸🇰	Flags.md	Flag for Slovakia
+🇸🇮	Flags.md	Flag for Slovenia
+🇸🇧	Flags.md	Flag for Solomon Islands
+🇸🇴	Flags.md	Flag for Somalia
+🇿🇦	Flags.md	Flag for South Africa
+🇬🇸	Flags.md	Flag for South Georgia & South Sandwich Islands
+🇰🇷	Flags.md	Flag for South Korea
+🇸🇸	Flags.md	Flag for South Sudan
+🇪🇸	Flags.md	Flag for Spain
+🇱🇰	Flags.md	Flag for Sri Lanka
+🇧🇱	Flags.md	Flag for St. Barthélemy
+🇸🇭	Flags.md	Flag for St. Helena
+🇰🇳	Flags.md	Flag for St. Kitts & Nevis
+🇱🇨	Flags.md	Flag for St. Lucia
+🇲🇫	Flags.md	Flag for St. Martin
+🇵🇲	Flags.md	Flag for St. Pierre & Miquelon
+🇻🇨	Flags.md	Flag for St. Vincent & Grenadines
+🇸🇩	Flags.md	Flag for Sudan
+🇸🇷	Flags.md	Flag for Suriname
+🇸🇯	Flags.md	Flag for Svalbard & Jan Mayen
+🇸🇿	Flags.md	Flag for Swaziland
+🇸🇪	Flags.md	Flag for Sweden
+🇨🇭	Flags.md	Flag for Switzerland
+🇸🇾	Flags.md	Flag for Syria
+🇹🇼	Flags.md	Flag for Taiwan
+🇹🇯	Flags.md	Flag for Tajikistan
+🇹🇿	Flags.md	Flag for Tanzania
+🇹🇭	Flags.md	Flag for Thailand
+🇹🇱	Flags.md	Flag for Timor-Leste
+🇹🇬	Flags.md	Flag for Togo
+🇹🇰	Flags.md	Flag for Tokelau
+🇹🇴	Flags.md	Flag for Tonga
+🇹🇹	Flags.md	Flag for Trinidad & Tobago
+🇹🇦	Flags.md	Flag for Tristan Da Cunha
+🇹🇳	Flags.md	Flag for Tunisia
+🇹🇷	Flags.md	Flag for Turkey
+🇹🇲	Flags.md	Flag for Turkmenistan
+🇹🇨	Flags.md	Flag for Turks & Caicos Islands
+🇹🇻	Flags.md	Flag for Tuvalu
+🇺🇬	Flags.md	Flag for Uganda
+🇺🇦	Flags.md	Flag for Ukraine
+🇦🇪	Flags.md	Flag for United Arab Emirates
+🇬🇧	Flags.md	Flag for United Kingdom
+🇺🇸	Flags.md	Flag for United States
+🇺🇾	Flags.md	Flag for Uruguay
+🇺🇲	Flags.md	Flag for U.S. Outlying Islands
+🇻🇮	Flags.md	Flag for U.S. Virgin Islands
+🇺🇿	Flags.md	Flag for Uzbekistan
+🇻🇺	Flags.md	Flag for Vanuatu
+🇻🇦	Flags.md	Flag for Vatican City
+🇻🇪	Flags.md	Flag for Venezuela
+🇻🇳	Flags.md	Flag for Vietnam
+🇼🇫	Flags.md	Flag for Wallis & Futuna
+🇪🇭	Flags.md	Flag for Western Sahara
+🇾🇪	Flags.md	Flag for Yemen
+🇿🇲	Flags.md	Flag for Zambia
+🇿🇼	Flags.md	Flag for Zimbabwe
+🍇	Food_and_Drink.md	Grapes
+🍈	Food_and_Drink.md	Melon
+🍉	Food_and_Drink.md	Watermelon
+🍊	Food_and_Drink.md	Tangerine
+🍋	Food_and_Drink.md	Lemon
+🍌	Food_and_Drink.md	Banana
+🍍	Food_and_Drink.md	Pineapple
+🍎	Food_and_Drink.md	Red Apple
+🍏	Food_and_Drink.md	Green Apple
+🍐	Food_and_Drink.md	Pear
+🍑	Food_and_Drink.md	Peach
+🍒	Food_and_Drink.md	Cherries
+🍓	Food_and_Drink.md	Strawberry
+🍅	Food_and_Drink.md	Tomato
+🍆	Food_and_Drink.md	Aubergine
+🌽	Food_and_Drink.md	Ear of Maize
+🌶	Food_and_Drink.md	Hot Pepper
+🍄	Food_and_Drink.md	Mushroom
+🌰	Food_and_Drink.md	Chestnut
+🍞	Food_and_Drink.md	Bread
+🧀	Food_and_Drink.md	Cheese Wedge
+🍖	Food_and_Drink.md	Meat on Bone
+🍗	Food_and_Drink.md	Poultry Leg
+🍔	Food_and_Drink.md	Hamburger
+🍟	Food_and_Drink.md	French Fries
+🍕	Food_and_Drink.md	Slice of Pizza
+🌭	Food_and_Drink.md	Hot Dog
+🌮	Food_and_Drink.md	Taco
+🌯	Food_and_Drink.md	Burrito
+🍿	Food_and_Drink.md	Popcorn
+🍲	Food_and_Drink.md	Pot of Food
+🍱	Food_and_Drink.md	Bento Box
+🍘	Food_and_Drink.md	Rice Cracker
+🍙	Food_and_Drink.md	Rice Ball
+🍚	Food_and_Drink.md	Cooked Rice
+🍛	Food_and_Drink.md	Curry and Rice
+🍜	Food_and_Drink.md	Steaming Bowl
+🍝	Food_and_Drink.md	Spaghetti
+🍠	Food_and_Drink.md	Roasted Sweet Potato
+🍢	Food_and_Drink.md	Oden
+🍣	Food_and_Drink.md	Sushi
+🍤	Food_and_Drink.md	Fried Shrimp
+🍥	Food_and_Drink.md	Fish Cake With Swirl Design
+🍡	Food_and_Drink.md	Dango
+🍦	Food_and_Drink.md	Soft Ice Cream
+🍧	Food_and_Drink.md	Shaved Ice
+🍨	Food_and_Drink.md	Ice Cream
+🍩	Food_and_Drink.md	Doughnut
+🍪	Food_and_Drink.md	Cookie
+🎂	Food_and_Drink.md	Birthday Cake
+🍰	Food_and_Drink.md	Shortcake
+🍫	Food_and_Drink.md	Chocolate Bar
+🍬	Food_and_Drink.md	Candy
+🍭	Food_and_Drink.md	Lollipop
+🍮	Food_and_Drink.md	Custard
+🍯	Food_and_Drink.md	Honey Pot
+🍼	Food_and_Drink.md	Baby Bottle
+☕	Food_and_Drink.md	Hot Beverage
+🍵	Food_and_Drink.md	Teacup Without Handle
+🍶	Food_and_Drink.md	Sake Bottle and Cup
+🍾	Food_and_Drink.md	Bottle With Popping Cork
+🍷	Food_and_Drink.md	Wine Glass
+🍸	Food_and_Drink.md	Cocktail Glass
+🍹	Food_and_Drink.md	Tropical Drink
+🍺	Food_and_Drink.md	Beer Mug
+🍻	Food_and_Drink.md	Clinking Beer Mugs
+🍽	Food_and_Drink.md	Fork and Knife With Plate
+🍴	Food_and_Drink.md	Fork and Knife
+🍳	Food_and_Drink.md	Cooking
+💌	Objects.md	Love Letter
+💣	Objects.md	Bomb
+🕳	Objects.md	Hole
+🛍	Objects.md	Shopping Bags
+📿	Objects.md	Prayer Beads
+💎	Objects.md	Gem Stone
+☠	Objects.md	Skull and Crossbones
+🏺	Objects.md	Amphora
+🗺	Objects.md	World Map
+🗿	Objects.md	Moyai
+💈	Objects.md	Barber Pole
+🖼	Objects.md	Frame With Picture
+🛢	Objects.md	Oil Drum
+🛎	Objects.md	Bellhop Bell
+🚪	Objects.md	Door
+🛌	Objects.md	Sleeping Accommodation
+🛏	Objects.md	Bed
+🛋	Objects.md	Couch and Lamp
+🚽	Objects.md	Toilet
+🚿	Objects.md	Shower
+🛁	Objects.md	Bathtub
+⌛	Objects.md	Hourglass
+⏳	Objects.md	Hourglass With Flowing Sand
+⌚	Objects.md	Watch
+⏰	Objects.md	Alarm Clock
+⏱	Objects.md	Stopwatch
+⏲	Objects.md	Timer Clock
+🕰	Objects.md	Mantelpiece Clock
+🌡	Objects.md	Thermometer
+⛱	Objects.md	Umbrella on Ground
+🎈	Objects.md	Balloon
+🎉	Objects.md	Party Popper
+🎊	Objects.md	Confetti Ball
+🎌	Objects.md	Crossed Flags
+🎎	Objects.md	Japanese Dolls
+🎏	Objects.md	Carp Streamer
+🎐	Objects.md	Wind Chime
+🎀	Objects.md	Ribbon
+🎁	Objects.md	Wrapped Present
+🎞	Objects.md	Film Frames
+🏷	Objects.md	Label
+🕹	Objects.md	Joystick
+📯	Objects.md	Postal Horn
+🎙	Objects.md	Studio Microphone
+🎚	Objects.md	Level Slider
+🎛	Objects.md	Control Knobs
+📻	Objects.md	Radio
+📱	Objects.md	Mobile Phone
+📲	Objects.md	Mobile Phone With Rightwards Arrow at Left
+☎️	Objects.md	Black Telephone
+📞	Objects.md	Telephone Receiver
+📟	Objects.md	Pager
+📠	Objects.md	Fax Machine
+🔋	Objects.md	Battery
+🔌	Objects.md	Electric Plug
+💻	Objects.md	Personal Computer
+🖥	Objects.md	Desktop Computer
+🖨	Objects.md	Printer
+⌨	Objects.md	Keyboard
+🖱	Objects.md	Three Button Mouse
+🖲	Objects.md	Trackball
+💽	Objects.md	Minidisc
+💾	Objects.md	Floppy Disk
+💿	Objects.md	Optical Disc
+📀	Objects.md	DVD
+🎥	Objects.md	Movie Camera
+📽	Objects.md	Film Projector
+📺	Objects.md	Television
+📷	Objects.md	Camera
+📸	Objects.md	Camera With Flash
+📹	Objects.md	Video Camera
+📼	Objects.md	Videocassette
+🔍	Objects.md	Left-Pointing Magnifying Glass
+🔎	Objects.md	Right-Pointing Magnifying Glass
+🔬	Objects.md	Microscope
+🔭	Objects.md	Telescope
+📡	Objects.md	Satellite Antenna
+🕯	Objects.md	Candle
+💡	Objects.md	Electric Light Bulb
+🔦	Objects.md	Electric Torch
+🏮	Objects.md	Izakaya Lantern
+📔	Objects.md	Notebook With Decorative Cover
+📕	Objects.md	Closed Book
+📖	Objects.md	Open Book
+📗	Objects.md	Green Book
+📘	Objects.md	Blue Book
+📙	Objects.md	Orange Book
+📚	Objects.md	Books
+📓	Objects.md	Notebook
+📃	Objects.md	Page With Curl
+📜	Objects.md	Scroll
+📄	Objects.md	Page Facing Up
+📰	Objects.md	Newspaper
+🗞	Objects.md	Rolled-Up Newspaper
+📑	Objects.md	Bookmark Tabs
+🔖	Objects.md	Bookmark
+💰	Objects.md	Money Bag
+💴	Objects.md	Banknote With Yen Sign
+💵	Objects.md	Banknote With Dollar Sign
+💶	Objects.md	Banknote With Euro Sign
+💷	Objects.md	Banknote With Pound Sign
+💸	Objects.md	Money With Wings
+💳	Objects.md	Credit Card
+✉️	Objects.md	Envelope
+📧	Objects.md	E-Mail Symbol
+📨	Objects.md	Incoming Envelope
+📩	Objects.md	Envelope With Downwards Arrow Above
+📤	Objects.md	Outbox Tray
+📥	Objects.md	Inbox Tray
+📦	Objects.md	Package
+📫	Objects.md	Closed Mailbox With Raised Flag
+📪	Objects.md	Closed Mailbox With Lowered Flag
+📬	Objects.md	Open Mailbox With Raised Flag
+📭	Objects.md	Open Mailbox With Lowered Flag
+📮	Objects.md	Postbox
+🗳	Objects.md	Ballot Box With Ballot
+✏️	Objects.md	Pencil
+✒️	Objects.md	Black Nib
+🖋	Objects.md	Lower Left Fountain Pen
+🖊	Objects.md	Lower Left Ballpoint Pen
+🖌	Objects.md	Lower Left Paintbrush
+🖍	Objects.md	Lower Left Crayon
+📝	Objects.md	Memo
+📁	Objects.md	File Folder
+📂	Objects.md	Open File Folder
+🗂	Objects.md	Card Index Dividers
+📅	Objects.md	Calendar
+📆	Objects.md	Tear-Off Calendar
+🗒	Objects.md	Spiral Note Pad
+🗓	Objects.md	Spiral Calendar Pad
+📇	Objects.md	Card Index
+📈	Objects.md	Chart With Upwards Trend
+📉	Objects.md	Chart With Downwards Trend
+📊	Objects.md	Bar Chart
+📋	Objects.md	Clipboard
+📌	Objects.md	Pushpin
+📍	Objects.md	Round Pushpin
+📎	Objects.md	Paperclip
+🖇	Objects.md	Linked Paperclips
+📏	Objects.md	Straight Ruler
+📐	Objects.md	Triangular Ruler
+✂️	Objects.md	Black Scissors
+🗃	Objects.md	Card File Box
+🗄	Objects.md	File Cabinet
+🗑	Objects.md	Wastebasket
+🔒	Objects.md	Lock
+🔓	Objects.md	Open Lock
+🔏	Objects.md	Lock With Ink Pen
+🔐	Objects.md	Closed Lock With Key
+🔑	Objects.md	Key
+🗝	Objects.md	Old Key
+🔨	Objects.md	Hammer
+⛏	Objects.md	Pick
+⚒	Objects.md	Hammer and Pick
+🛠	Objects.md	Hammer and Wrench
+🔧	Objects.md	Wrench
+🔩	Objects.md	Nut and Bolt
+⚙	Objects.md	Gear
+🗜	Objects.md	Compression
+⚗	Objects.md	Alembic
+⚖	Objects.md	Scales
+🔗	Objects.md	Link Symbol
+⛓	Objects.md	Chains
+💉	Objects.md	Syringe
+💊	Objects.md	Pill
+🗡	Objects.md	Dagger Knife
+🔪	Objects.md	Hocho
+⚔	Objects.md	Crossed Swords
+🔫	Objects.md	Pistol
+🛡	Objects.md	Shield
+🚬	Objects.md	Smoking Symbol
+⚰	Objects.md	Coffin
+⚱	Objects.md	Funeral Urn
+🏳	Objects.md	Waving White Flag
+🏴	Objects.md	Waving Black Flag
+🚩	Objects.md	Triangular Flag on Post
+🔮	Objects.md	Crystal Ball
+🗺	Travel_and_Places.md	World Map
+🏔	Travel_and_Places.md	Snow Capped Mountain
+⛰	Travel_and_Places.md	Mountain
+🌋	Travel_and_Places.md	Volcano
+🗻	Travel_and_Places.md	Mount Fuji
+🏕	Travel_and_Places.md	Camping
+🏖	Travel_and_Places.md	Beach With Umbrella
+🏜	Travel_and_Places.md	Desert
+🏝	Travel_and_Places.md	Desert Island
+🏞	Travel_and_Places.md	National Park
+🏟	Travel_and_Places.md	Stadium
+🏛	Travel_and_Places.md	Classical Building
+🏗	Travel_and_Places.md	Building Construction
+🏘	Travel_and_Places.md	House Buildings
+🏙	Travel_and_Places.md	Cityscape
+🏚	Travel_and_Places.md	Derelict House Building
+🏠	Travel_and_Places.md	House Building
+🏡	Travel_and_Places.md	House With Garden
+⛪	Travel_and_Places.md	Church
+🕋	Travel_and_Places.md	Kaaba
+🕌	Travel_and_Places.md	Mosque
+🕍	Travel_and_Places.md	Synagogue
+🏢	Travel_and_Places.md	Office Building
+🏣	Travel_and_Places.md	Japanese Post Office
+🏤	Travel_and_Places.md	European Post Office
+🏥	Travel_and_Places.md	Hospital
+🏦	Travel_and_Places.md	Bank
+🏨	Travel_and_Places.md	Hotel
+🏩	Travel_and_Places.md	Love Hotel
+🏪	Travel_and_Places.md	Convenience Store
+🏫	Travel_and_Places.md	School
+🏬	Travel_and_Places.md	Department Store
+🏭	Travel_and_Places.md	Factory
+🏯	Travel_and_Places.md	Japanese Castle
+🏰	Travel_and_Places.md	European Castle
+💒	Travel_and_Places.md	Wedding
+🗼	Travel_and_Places.md	Tokyo Tower
+🗽	Travel_and_Places.md	Statue of Liberty
+⛲	Travel_and_Places.md	Fountain
+🌁	Travel_and_Places.md	Foggy
+🌃	Travel_and_Places.md	Night With Stars
+🌆	Travel_and_Places.md	Cityscape at Dusk
+🌇	Travel_and_Places.md	Sunset Over Buildings
+🌉	Travel_and_Places.md	Bridge at Night
+🗿	Travel_and_Places.md	Moyai
+🌌	Travel_and_Places.md	Milky Way
+🎠	Travel_and_Places.md	Carousel Horse
+🎡	Travel_and_Places.md	Ferris Wheel
+🎢	Travel_and_Places.md	Roller Coaster
+🚂	Travel_and_Places.md	Steam Locomotive
+🚃	Travel_and_Places.md	Railway Car
+🚄	Travel_and_Places.md	High-Speed Train
+🚅	Travel_and_Places.md	High-Speed Train With Bullet Nose
+🚆	Travel_and_Places.md	Train
+🚇	Travel_and_Places.md	Metro
+🚈	Travel_and_Places.md	Light Rail
+🚉	Travel_and_Places.md	Station
+🚊	Travel_and_Places.md	Tram
+🚝	Travel_and_Places.md	Monorail
+🚞	Travel_and_Places.md	Mountain Railway
+🚋	Travel_and_Places.md	Tram Car
+🚌	Travel_and_Places.md	Bus
+🚍	Travel_and_Places.md	Oncoming Bus
+🚎	Travel_and_Places.md	Trolleybus
+🚏	Travel_and_Places.md	Bus Stop
+🚐	Travel_and_Places.md	Minibus
+🚑	Travel_and_Places.md	Ambulance
+🚒	Travel_and_Places.md	Fire Engine
+🚓	Travel_and_Places.md	Police Car
+🚔	Travel_and_Places.md	Oncoming Police Car
+🚕	Travel_and_Places.md	Taxi
+🚖	Travel_and_Places.md	Oncoming Taxi
+🚗	Travel_and_Places.md	Automobile
+🚘	Travel_and_Places.md	Oncoming Automobile
+🚚	Travel_and_Places.md	Delivery Truck
+🚛	Travel_and_Places.md	Articulated Lorry
+🚜	Travel_and_Places.md	Tractor
+🚲	Travel_and_Places.md	Bicycle
+⛽	Travel_and_Places.md	Fuel Pump
+🛤	Travel_and_Places.md	Railway Track
+🚨	Travel_and_Places.md	Police Cars Revolving Light
+⚓	Travel_and_Places.md	Anchor
+⛵	Travel_and_Places.md	Sailboat
+🚣	Travel_and_Places.md	Rowboat
+🚤	Travel_and_Places.md	Speedboat
+🛳	Travel_and_Places.md	Passenger Ship
+⛴	Travel_and_Places.md	Ferry
+🛥	Travel_and_Places.md	Motor Boat
+🚢	Travel_and_Places.md	Ship
+✈️	Travel_and_Places.md	Airplane
+🛩	Travel_and_Places.md	Small Airplane
+🛫	Travel_and_Places.md	Airplane Departure
+🛬	Travel_and_Places.md	Airplane Arriving
+💺	Travel_and_Places.md	Seat
+🚁	Travel_and_Places.md	Helicopter
+🚟	Travel_and_Places.md	Suspension Railway
+🚠	Travel_and_Places.md	Mountain Cableway
+🚡	Travel_and_Places.md	Aerial Tramway
+🚀	Travel_and_Places.md	Rocket
+🛰	Travel_and_Places.md	Satellite
+🚥	Travel_and_Places.md	Horizontal Traffic Light
+🚦	Travel_and_Places.md	Vertical Traffic Light
+🚧	Travel_and_Places.md	Construction Sign
+🛂	Travel_and_Places.md	Passport Control
+🛃	Travel_and_Places.md	Customs
+🛄	Travel_and_Places.md	Baggage Claim
+🛅	Travel_and_Places.md	Left Luggage
+🏎	Travel_and_Places.md	Racing Car
+🏍	Travel_and_Places.md	Racing Motorcycle
+💴	Travel_and_Places.md	Banknote With Yen Sign
+💵	Travel_and_Places.md	Banknote With Dollar Sign
+💶	Travel_and_Places.md	Banknote With Euro Sign
+💷	Travel_and_Places.md	Banknote With Pound Sign
+⛩	Travel_and_Places.md	Shinto Shrine
+🕴	Activity.md	Man in Business Suit Levitating
+👾	Activity.md	Alien Monster
+🏵	Activity.md	Rosette
+🎪	Activity.md	Circus Tent
+🎭	Activity.md	Performing Arts
+🎨	Activity.md	Artist Palette
+🎰	Activity.md	Slot Machine
+🚣	Activity.md	Rowboat
+🛀	Activity.md	Bath
+🎯	Activity.md	Direct Hit
+🎖	Activity.md	Military Medal
+🎗	Activity.md	Reminder Ribbon
+🎟	Activity.md	Admission Tickets
+🎫	Activity.md	Ticket
+⚽	Activity.md	Soccer Ball
+⚾	Activity.md	Baseball
+🏀	Activity.md	Basketball and Hoop
+🏈	Activity.md	American Football
+🏉	Activity.md	Rugby Football
+🎾	Activity.md	Tennis Racquet and Ball
+🎱	Activity.md	Billiards
+🎳	Activity.md	Bowling
+⛳	Activity.md	Flag in Hole
+🏌	Activity.md	Golfer
+⛸	Activity.md	Ice Skate
+🎣	Activity.md	Fishing Pole and Fish
+🎽	Activity.md	Running Shirt With Sash
+🎿	Activity.md	Ski and Ski Boot
+⛷	Activity.md	Skier
+🏂	Activity.md	Snowboarder
+🏄	Activity.md	Surfer
+🏇	Activity.md	Horse Racing
+🏊	Activity.md	Swimmer
+⛹	Activity.md	Person With Ball
+🏋	Activity.md	Weight Lifter
+🚴	Activity.md	Bicyclist
+🚵	Activity.md	Mountain Bicyclist
+🏅	Activity.md	Sports Medal
+🏆	Activity.md	Trophy
+🏏	Activity.md	Cricket Bat and Ball
+🏐	Activity.md	Volleyball
+🏑	Activity.md	Field Hockey Stick and Ball
+🏒	Activity.md	Ice Hockey Stick and Puck
+🏓	Activity.md	Table Tennis Paddle and Ball
+🏸	Activity.md	Badminton Racquet and Shuttlecock
+🎮	Activity.md	Video Game
+🎲	Activity.md	Game Die
+🎷	Activity.md	Saxophone
+🎸	Activity.md	Guitar
+🎺	Activity.md	Trumpet
+🎻	Activity.md	Violin
+🎬	Activity.md	Clapper Board
+🏹	Activity.md	Bow and Arrow
