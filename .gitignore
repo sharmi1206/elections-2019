@@ -1,1 +1,4 @@
 *.txt
+.idea/
+./algorithms/.idea/
+.electionsentiment/.idea/
