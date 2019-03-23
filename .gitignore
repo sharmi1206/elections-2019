@@ -2,3 +2,5 @@
 .idea/
 ./algorithms/.idea/
 ./electionsentiment/.idea/
+*.pdf
+*.csv
