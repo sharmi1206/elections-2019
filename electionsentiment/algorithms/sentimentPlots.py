@@ -140,16 +140,7 @@ for i in range(len(stats_files)):
         mplt.title("LokShobha Elections 2019 " + labels[i], fontsize=10)
         mplt.show(fig)
         # Bigram Frequency Distribution
-        sns.set(font_scale=0.5)
-        word_disb_path = filePath + '/train/wordstats/2-gram/'
-        word_counter_df = pd.read_csv(word_disb_path + bi_gram_files[i])
-        word_popular_df['bigram_word'] = word_popular_df.W1 + "  " + word_popular_df.W2
-        fig = sns.barplot(x=word_popular_df["bigram_word"], y=word_popular_df["F"])
-        sns.set(font_scale=.5)
-        mplt.xlabel("Bigram Words", fontsize=10)
-        mplt.ylabel("Frequency", fontsize=10)
-        mplt.title("LokShobha Elections 2019 " + labels[i], fontsize=10)
-        mplt.show(fig)
+
 
         df_raw_retweets = df_raw.nlargest(25, columns=['retweet_count'])
 
@@ -209,5 +200,16 @@ for i in range(len(stats_files)):
         mplt.axis("off")
         mplt.show()
 
+        sns.set(font_scale=0.5)
+        word_disb_path = filePath + '/train/wordstats/2-gram/'
+        word_counter_df = pd.read_csv(word_disb_path + bi_gram_files[i])
+        word_popular_df = word_counter_df.nlargest(25, columns=['F'])
+        word_popular_df['bigram_word'] = word_popular_df.W1 + "  " + word_popular_df.W2
+        fig = sns.barplot(x=word_popular_df["bigram_word"], y=word_popular_df["F"])
+        sns.set(font_scale=.5)
+        mplt.xlabel("Bigram Words", fontsize=10)
+        mplt.ylabel("Frequency", fontsize=10)
+        mplt.title("LokShobha Elections 2019 " + labels[i], fontsize=10)
+        mplt.show(fig)
 
 
