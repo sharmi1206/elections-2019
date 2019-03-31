@@ -18,6 +18,13 @@ from keras import initializers
 from sklearn import metrics
 from sklearn.metrics import confusion_matrix
 from keras import regularizers
+from keras.models import Sequential
+from keras.layers.core import Dense, Dropout
+from keras import layers
+
+import matplotlib
+matplotlib.use('TkAgg')
+import matplotlib.pyplot as plt
 
 
 MAX_SENT_LENGTH = 100
@@ -175,6 +182,26 @@ embedding_layer = Embedding(len(word_index) + 1,
 
 sequence_input = Input(shape=(MAX_SEQUENCE_LENGTH,), dtype='int32')
 
+def plot_history(history):
+    acc = history.history['acc']
+    val_acc = history.history['val_acc']
+    loss = history.history['loss']
+    val_loss = history.history['val_loss']
+    x = range(1, len(acc) + 1)
+
+    plt.figure(figsize=(12, 5))
+    plt.subplot(1, 2, 1)
+    plt.plot(x, acc, 'b', label='Training acc')
+    plt.plot(x, val_acc, 'r', label='Validation acc')
+    plt.title('Training and validation accuracy')
+    plt.legend()
+    plt.subplot(1, 2, 2)
+    plt.plot(x, loss, 'b', label='Training loss')
+    plt.plot(x, val_loss, 'r', label='Validation loss')
+    plt.title('Training and validation loss')
+    plt.legend()
+    plt.show()
+
 
 # Bidirectional LSTM
 def biLSTM():
@@ -323,6 +350,52 @@ def biLSTMAttDlayer():
     print('Accuracy: {}'.format(accuracy_score(classes[np.argmax(y_test, axis=1)], preds)))
 
 
+def cnnmodel():
+
+    model = Sequential()
+    model.add(layers.Embedding(len(word_index) + 1,
+                            EMBEDDING_DIM,
+                            weights=[embedding_matrix],
+                            input_length=MAX_SEQUENCE_LENGTH,
+                            trainable=True))
+    model.add(layers.Conv1D(128, 5, activation='relu'))
+    model.add(layers.GlobalMaxPooling1D())
+    model.add(Dense(8, activation='softmax'))
+    model.compile(loss='categorical_crossentropy',
+                  optimizer='adam',
+                  metrics=['acc'])
+    model.summary()
+
+    history = model.fit(x_train, y_train,
+                        nb_epoch=15, batch_size=64,
+                        validation_data=(x_test, y_test))
+
+
+    loss, accuracy = model.evaluate(x_train, y_train, verbose=False)
+    print("Training Accuracy: {:.4f}".format(accuracy))
+    loss, accuracy = model.evaluate(x_test, y_test, verbose=False)
+    print("Testing Accuracy:  {:.4f}".format(accuracy))
+    plot_history(history)
+
+
+    output_test = model.predict(x_test)
+    final_pred = np.argmax(output_test, axis=1)
+    org_y_label = [np.where(r == 1)[0][0] for r in y_test]
+    print(org_y_label)
+    results = confusion_matrix(org_y_label, final_pred)
+    print(results)
+    precisions, recall, f1_score, true_sum = metrics.precision_recall_fscore_support(org_y_label, final_pred)
+    print("Classify Glove Bi-LSTM Precision =", precisions)
+    print("Classify Glove Bi-LSTM Recall=", recall)
+    print("Classify Glove Bi-LSTM F1 Score =", f1_score)
+
+    pred_indices = np.argmax(output_test, axis=1)
+    classes = np.array(range(0, 8))
+    preds = classes[pred_indices]
+    print('Log loss: {}'.format(log_loss(classes[np.argmax(y_test, axis=1)], output_test)))
+    print('Accuracy: {}'.format(accuracy_score(classes[np.argmax(y_test, axis=1)], preds)))
+
+
 def autoEncodeDecodeLayer():
     input_dim = x_train.shape[1]
 
@@ -373,3 +446,4 @@ if __name__ == '__main__':
     biLSTM()
     biGRUAttlayer()
     biLSTMAttlayer()
+    cnnmodel()
