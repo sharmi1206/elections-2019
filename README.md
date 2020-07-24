@@ -59,6 +59,8 @@ g. python  classifygloveattlstm.py [Deep learning models based on Word2Vec Embed
 
 Links of blogs published in Analytics Vidhya
 
-1. https://medium.com/analytics-vidhya/twitter-sentiment-analysis-for-the-2019-election-8f7d52af1887
-2. https://medium.com/analytics-vidhya/sentiment-classification-for-2019-elections-using-text-based-classifiers-217f86b05124
-3. https://medium.com/analytics-vidhya/elections-2019-mood-classification-with-text-based-classifiers-ii-bf23c3dfac7f
+1.https://techairesearch.com/sentiment-analysis-using-deep-learning-techniques-with-india-elections-2019-a-case-study/
+2.https://techairesearch.com/elections-2019-mood-classification-with-text-based-classifiers-ii/
+3.https://techairesearch.com/sentiment-classification-for-2019-elections-using-text-based-classifiers-i/
+4.https://techairesearch.com/twitter-sentiment-analysis-for-the-2019-election/
+5.https://techairesearch.com/boosting-bagging-and-stacking-a-comparative-analysis-2019-india-elections-case-study/
